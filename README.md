@@ -7,5 +7,4 @@ cd ThatsThem-Scraper
 python3 main.py
 ```
 ## ✨ Contributors
-[James](https://github.com/JamesMagellan)
-[IRIS](https://github.com/IRIS-Team)
+[James](https://github.com/JamesMagellan) | [IRIS](https://github.com/IRIS-Team)
