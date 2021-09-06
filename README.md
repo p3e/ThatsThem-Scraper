@@ -4,6 +4,7 @@ ThatsThem Email Info Scraper.
 ```
 git clone https://github.com/JamesMagellan/ThatsThem-Scraper.git
 cd ThatsThem-Scraper
+pip3 install -r requirments.txt
 python3 main.py
 ```
 Register at [ThatsThem.com](https://thatsthem.com/register)
