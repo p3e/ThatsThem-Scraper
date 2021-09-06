@@ -2,7 +2,7 @@
 ThatsThem Email Info Scraper.
 ## ⚙️ Installation
 ```
-git clone https://JamesMagellan/ThatsThem-Scraper.git
+git clone https://github.com/JamesMagellan/ThatsThem-Scraper.git
 cd ThatsThem-Scraper
 python3 main.py
 ```
