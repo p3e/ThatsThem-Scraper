@@ -2,7 +2,7 @@
 ThatsThem Email Info Scraper.
 ## ⚙️ Installation
 ```
-git clone https://github.com/JamesMagellan/ThatsThem-Scraper.git
+git clone https://github.com/p3e/ThatsThem-Scraper.git
 cd ThatsThem-Scraper
 pip3 install -r requirments.txt
 python3 main.py
@@ -16,6 +16,6 @@ Find and copy these cookies from the Cookie Editor: ```ict(__stripe_mid``` ```__
 Paste the Cookies into the designated spot (config.json)
 
 ## ✨ Contributors
-[James](https://github.com/JamesMagellan)
+[James](https://github.com/p3e)
 
 [IRIS](https://github.com/IRIS-Team)
