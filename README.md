@@ -1,5 +1,7 @@
 ## ℹ️ About
 ThatsThem Email Info Scraper.
+## ❓ What is it?
+This was an old (and bad) tool made by me and IRIS. The tools purpose was to gather information such as a name, address, or phone number from ThatsThem.com using an email address.
 ## ⚙️ Installation
 ```
 git clone https://github.com/p3e/ThatsThem-Scraper.git
